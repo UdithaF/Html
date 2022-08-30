@@ -1,0 +1,67 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{background-image: url(Lamborghini\ Countach.jfif);
+background-size: cover;
+background-position: top;
+
+font-family: Arial, Helvetica, sans-serif;
+}
+.lol
+{text-align: center;
+    
+    font-family: "Audiowide", sans-serif;
+    color: rgb(255, 255, 255);
+  }
+.menu-bar
+{background: rgb(53, 1, 1);
+    text-align: center;
+}
+.menu-bar ul
+{display: inline-flex;
+    list-style: none;
+    color: rgb(255, 255, 255);
+}
+.menu-bar ul li
+{
+    width: 120px;
+    margin: 15px;
+    padding: 5px;
+
+}
+.menu-bar ul li a
+{text-decoration-color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);}
+
+:active, .menu-bar ul li :hover
+{background: rgb(192, 142, 6);
+border-radius: 1px;
+}
+.menu-bar .fa
+{margin-right: 8px;
+}
+body
+{margin: 0;
+font-family: monospace;}
+.section 
+{color: dimgray;display: flex;
+justify-content: space-between;
+padding: 40px;
+width: 70%;
+margin: 10rem auto 0 auto;}
+.section img {height: 220px;
+    border-image: auto;
+}
+.section h3
+{color: white;|}
+.section p
+{color: white;
+}
+.section p
+{margin: right 15%; ;}
+
+
